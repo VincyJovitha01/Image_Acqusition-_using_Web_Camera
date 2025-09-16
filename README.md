@@ -1,4 +1,4 @@
-# Image Acquisition using Web Camera
+# Ex no:02 Image Acquisition using Web Camera
 
 ### Name : VINCY JOVITHA V
 ### Register No : 212223230242
